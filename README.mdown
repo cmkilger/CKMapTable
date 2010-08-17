@@ -1,0 +1,3 @@
+CKMapTable is intended to become the iOS equivalent of [NSMapTable][1], which is only available on the Mac.  It is currently incomplete.  I'll add to it as I find the need.
+
+[1]: http://developer.apple.com/mac/library/documentation/Cocoa/Reference/NSMapTable_class/Reference/NSMapTable.html "NSMapTable"
